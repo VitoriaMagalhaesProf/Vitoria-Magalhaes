@@ -2,7 +2,7 @@
 
 <h1 align="center">Bem-vindo ao meu perfil GitHub 👋</h1>
 
-## 🙋‍♂️ Sobre mim
+## 👩🏽‍💻 Sobre mim
 
 - 🧠 Doutorando em Ciência da Computação na Universidade Federal de Goiás (UFG)  
 - 🎓 Mestre em Ciência da Computação pela Universidade Federal de Goiás (UFG)  
